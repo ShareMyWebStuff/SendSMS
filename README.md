@@ -29,3 +29,8 @@ Two sets of tests have been created
 - Testing of the lambda function, including mocking the SNS for success and failure
 
 Below you can see a test coverage of 100% was achieved
+
+![Lambda coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/lambda_coverage.png "Lambda coverage")
+
+Complete coverage
+![Complete coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/total_coverage.PNG "Complete coverage")
