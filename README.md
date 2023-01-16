@@ -30,7 +30,10 @@ Two sets of tests have been created
 
 Below you can see a test coverage of 100% was achieved
 
-![Lambda coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/lambda_coverage.png "Lambda coverage")
+### Lambda coverage
 
-Complete coverage
-![Complete coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/total_coverage.PNG "Complete coverage")
+![Lambda coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/lambda_coverage.png)
+
+### Complete coverage
+
+![Complete coverage](https://github.com/ShareMyWebStuff/SendSMS/blob/main/docs/total_coverage.PNG)
